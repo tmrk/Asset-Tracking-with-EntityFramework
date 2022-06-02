@@ -102,7 +102,7 @@ namespace AssetTrackingEntityFramework
                 filterTable: filterTableTemp);
         }
 
-        // Allows user to input a new asset (Note: no error handling implemented)
+        // Allows user to input a new asset
         static public void AddNew()
         {
             Console.Clear();
