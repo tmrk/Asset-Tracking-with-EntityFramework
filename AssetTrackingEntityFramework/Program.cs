@@ -54,6 +54,7 @@ namespace AssetTrackingEntityFramework
         static void Main(string[] args)
         {
             Console.WindowHeight = 40;
+            Console.Title = "Asset Tracking with EntityFramework";
             LoadDB();
             ShowState(mainMenu);
         }
