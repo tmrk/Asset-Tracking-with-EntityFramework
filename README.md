@@ -8,3 +8,7 @@ This is a modified version of a previous project called [Asset Tracking](https:/
 * Added some basic error handling under the AddNew() method
 * Minor code improvements
 * Changed target to .NET 6
+
+![Screenshot 1](AssetTrackingEntityFramework/scrshot_1.png)
+![Screenshot 2](AssetTrackingEntityFramework/scrshot_2.png)
+![Screenshot 3](AssetTrackingEntityFramework/scrshot_3.png)
